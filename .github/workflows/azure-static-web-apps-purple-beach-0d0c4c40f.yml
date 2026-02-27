@@ -48,3 +48,4 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_PURPLE_BEACH_0D0C4C40F }}
           action: "close"
 
+
